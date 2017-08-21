@@ -3,15 +3,15 @@
 
 > The title says slide, but what we are doing is like a side step to the left. We are not turning just moving to the left and then to the right.
 
-![](10-L5-step1.png)
+![](images/10-L5-step1.png)
  
 Add a **left for [ 3 ] seconds**
 
-![](10-L5-step2.png)
+![](images/10-L5-step2.png)
 
 Add a **right for [ 3 ] seconds** and a **land**
 
-![](10-L5-step3.png)
+![](images/10-L5-step3.png)
 
 ![](images/06-L01-playBtn.png)
 
