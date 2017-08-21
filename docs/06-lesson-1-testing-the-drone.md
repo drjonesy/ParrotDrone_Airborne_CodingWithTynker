@@ -4,7 +4,8 @@
 > Before we get into all the fun stuff let’s make sure the drone will accept our block code.
 
 Either in the Common blocks ![](images/06-L01-star.png) or Loop blocks ![](images/06-L01-loop1.png)
-add **on start** block
+
+Add **on start** block
 
 ![](images/06-L01-onStart.png)
 
