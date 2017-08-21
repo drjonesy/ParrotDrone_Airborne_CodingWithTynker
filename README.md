@@ -21,7 +21,7 @@ This is a beginner course for learning how to program the Parrot Airborne Drone 
 
 [7. Lesson 2: Block Help](docs/07-lesson-2-block-help.md)
 
-8. Lesson 3: Flying Forward
+[8. Lesson 3: Flying Forward](docs/08-lesson-3-flying-forward.md)
 
 9. Lesson 4: Fly forward, turn around, and come back.
 

@@ -1,4 +1,5 @@
-[<<](06-lesson-1-testing-the-drone.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker)
+[<<](06-lesson-1-testing-the-drone.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker)[>>](08-lesson-3-flying-forward.md)
+
 # Lesson 1: Testing the Drone
 
 > In the future, you when you are building your own block programs you will want to know what a block does. To find this out find the little Monster in the top right of the screen. He is to the left of the plus button.
