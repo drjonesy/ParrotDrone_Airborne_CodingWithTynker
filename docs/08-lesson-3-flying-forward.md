@@ -1,4 +1,4 @@
-[<<](07-lesson-2-block-help.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker)
+[<<](07-lesson-2-block-help.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](09-lesson-4-fly-forward-turn-arond-come-back.md)
 # Lesson 1: Testing the Drone
 
 > In most of the lessons the first thing we will do is add an **on start** and **take off** blocks. We will also likely finish off with a **land** and request that you **press the play button**.
