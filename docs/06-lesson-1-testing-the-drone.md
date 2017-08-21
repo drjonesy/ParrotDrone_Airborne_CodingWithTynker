@@ -19,6 +19,7 @@ Common blocks ![](images/06-L01-star.png) or Library blocks ![](images/06-L01-li
 ![](images/06-L01-land.png)
 
 ![](images/06-L01-playBtn.png)
+
 And press the **Play Button**
 
 
