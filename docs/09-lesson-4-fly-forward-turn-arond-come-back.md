@@ -1,4 +1,4 @@
-[<<](08-lesson-3-flying-forward.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker)
+[<<](08-lesson-3-flying-forward.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](10-lesson-5-slide-left-slide-right.md)
 # Lesson 4: Fly forward, turn around, and come back
 
 > Just like Lesson 3 we will **take off**, fly **forward for [ 3 ] seconds**. But instead of **landing**, we will turn around **(180 degrees)** fly **forward for [ 3 ] seconds**. Then **Land**. 
