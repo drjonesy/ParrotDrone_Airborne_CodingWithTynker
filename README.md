@@ -17,6 +17,8 @@ This is a beginner course for learning how to program the Parrot Airborne Drone 
 
 [5. Required for All New Drone Projects (Tynker App)](docs/05-required-for-all-new-drone-projects.md)
 
+##### Lessons
+
 [6. Lesson 1: Testing the Drone](docs/06-lesson-1-testing-the-drone.md)
 
 [7. Lesson 2: Block Help](docs/07-lesson-2-block-help.md)
