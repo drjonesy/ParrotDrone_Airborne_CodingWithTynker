@@ -1,4 +1,4 @@
-[<<](05-required-for-all-new-drone-projects.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker)
+[<<](05-required-for-all-new-drone-projects.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](07-lesson-2-block-help.md)
 # Lesson 1: Testing the Drone
 
 > Before we get into all the fun stuff let’s make sure the drone will accept our block code.
