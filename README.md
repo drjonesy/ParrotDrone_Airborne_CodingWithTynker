@@ -19,11 +19,11 @@ This is a beginner course for learning how to program the Parrot Airborne Drone 
 
 ##### Lessons
 
-[6. Lesson 1: Testing the Drone](docs/06-lesson-1-testing-the-drone.md)
+[Lesson 1: Testing the Drone](docs/06-lesson-1-testing-the-drone.md)
 
-[7. Lesson 2: Block Help](docs/07-lesson-2-block-help.md)
+[Lesson 2: Block Help](docs/07-lesson-2-block-help.md)
 
-[8. Lesson 3: Flying Forward](docs/08-lesson-3-flying-forward.md)
+[Lesson 3: Flying Forward](docs/08-lesson-3-flying-forward.md)
 
 9. Lesson 4: Fly forward, turn around, and come back.
 
