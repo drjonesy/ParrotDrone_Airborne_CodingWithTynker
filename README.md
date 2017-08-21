@@ -4,7 +4,8 @@ This is a beginner course for learning how to program the Parrot Airborne Drone 
 
 ### Table of Contents (version 1)
 
-  1) How to Create a New Project (Tynker App)
+
+[How to Create a New Project (Tynker App)](docs/01-how-to-create-a-new-project.md) 
   2) How to Remove an Actor (Tynker App)
   3) How to add a Drone/Robot (Tynker App)
   4) How to connect the Drone to Bluetooth
