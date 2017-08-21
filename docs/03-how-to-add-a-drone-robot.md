@@ -1,4 +1,4 @@
-[<<](02-how-to-remove-an-actor.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker)
+[<<](02-how-to-remove-an-actor.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](04-how-connect-the-drone-to-bluetooth.md)
 # How to add a Drone/Robot
 
 1) In the top right click the **plus button**
