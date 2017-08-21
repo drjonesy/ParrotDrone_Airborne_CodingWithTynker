@@ -5,7 +5,7 @@
 
 We will add two new blocks. **Backward for [ 1 ] seconds** and **stop**
 
-#### Stop: What is it?
+### Stop: What is it?
 Think of stop like a pause button. If I am flying forward and I add a **stop** block. The Drone will stop and hover in place. It helps stabilize the drone before doing the next command.
 
 ![](images/11-L6-step1.png)
