@@ -1,0 +1,14 @@
+[<<](04-how-connect-the-drone-to-bluetooth.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker)
+# Required for All New Drone Projects 
+
+> Before we can add our own code, we must remove the current placeholder code.
+
+Click on the **Code Button**
+
+![](images/05-code-button.png)
+
+Take your finger, press it down on the **when actor touched** block and drag it over to the right. You should see a trashcan appear.
+
+![](images/05-remove-initial-blocks.png)
+
+
