@@ -9,12 +9,14 @@ Add **on start** block
 
 ![](images/06-L01-onStart.png)
 
-Then attach from the take-off from either the 
+Then attach the **take off** from either the 
+
 Common blocks ![](images/06-L01-star.png) or Library blocks ![](images/06-L01-library.png)
 
 ![](images/06-L01-takeOff.png)
 
-Next add the Land from either the 
+Next add the **Land** from either the 
+
 Common blocks ![](images/06-L01-star.png) or Library blocks ![](images/06-L01-library.png)
 
 ![](images/06-L01-land.png)
