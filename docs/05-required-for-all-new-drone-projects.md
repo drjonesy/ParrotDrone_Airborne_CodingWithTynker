@@ -1,4 +1,4 @@
-[<<](04-how-connect-the-drone-to-bluetooth.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker)
+[<<](04-how-connect-the-drone-to-bluetooth.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](06-lesson-1-testing-the-drone.md)
 # Required for All New Drone Projects 
 
 > Before we can add our own code, we must remove the current placeholder code.
