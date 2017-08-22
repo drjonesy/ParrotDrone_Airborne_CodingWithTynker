@@ -1,4 +1,4 @@
-[<<](12-lesson-7-a-square-repeat-block.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](14-lesson-9-variables)
+[<<](12-lesson-7-a-square-repeat-block.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](14-lesson-9-variables.md)
 # Lesson 8: Fly in Circle
 
 > Ok. We’ve learned to fly in Square. But how do we fly in circle? We need to somehow keep moving while rotating and leaning in towards the same direction. Plus, we need to fly in either forward or backwards to create a circle; otherwise, we will just be turn in the same place…?

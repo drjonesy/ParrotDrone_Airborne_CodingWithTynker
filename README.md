@@ -25,17 +25,17 @@ This is a beginner course for learning how to program the Parrot Airborne Drone 
 
 [8. Lesson 3: Flying Forward](docs/08-lesson-3-flying-forward.md)
 
-9. Lesson 4: Fly forward, turn around, and come back.
+[9. Lesson 4: Fly forward, turn around, and come back](docs/09-lesson-4-fly-forward-turn-arond-come-back.md)
 
-10. Lesson 5: Slide to left, slide to right
+[10. Lesson 5: Slide to left, slide to right](docs/10-lesson-5-slide-left-slide-right.md)
 
-11. Lesson 6: A Square
+[11. Lesson 6: A Square](docs/11-lesson-6-a-square.md)
 
-12. Lesson 7: A Square (Repeat Block)
+[12. Lesson 7: A Square (Repeat Block)](docs/12-lesson-7-a-square-repeat-block.md)
 
-13. Lesson 8: Fly in Circle
+[13. Lesson 8: Fly in Circle](docs/13-lesson-8-fly-in-a-circle.md)
 
-14. Lesson 9: Variables
+[14. Lesson 9: Variables](docs/14-lesson-9-variables.md)
 
 
 ### Coming Soon
