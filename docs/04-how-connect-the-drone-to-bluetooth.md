@@ -1,11 +1,11 @@
 [<<](03-how-to-add-a-drone-robot.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](05-required-for-all-new-drone-projects.md)
 # How to connect the Drone to Bluetooth
 
-## Watch
+## Watch on YouTube
 
 [![Play Video](images/04-vid-github-img.png)](https://www.youtube.com/watch?v=y0U4MQHlXns&list=PLyCwPGjh8kDzoPi_4_G_BlavE3nlbkBCd&index=4)
 
-## Read
+## or Read...
 
 1) Make sure the Drone has battery inserted.
 

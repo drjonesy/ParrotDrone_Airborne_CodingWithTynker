@@ -1,11 +1,11 @@
 [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](02-how-to-remove-an-actor.md)
 # How to Create a New Project
 
-## Watch
+## Watch on YouTube
 
 [![Play Video](images/01-vid-github-img.png)](https://www.youtube.com/watch?v=jK4xpfoVFYs&list=PLyCwPGjh8kDzoPi_4_G_BlavE3nlbkBCd&index=1)
 
-## Read
+## or Read...
 1) Remove the actor
 
 ![](images/01-logo-tynker-icon.png)
