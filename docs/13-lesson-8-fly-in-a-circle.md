@@ -1,5 +1,5 @@
 [<<](12-lesson-7-a-square-repeat-block.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](14-lesson-9-variables.md)
-# Lesson 8: Fly in Circle
+# Lesson 8: Fly in a Circle
 
 ## Watch on YouTube
 

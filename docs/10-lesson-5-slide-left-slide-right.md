@@ -1,5 +1,5 @@
-[<<](09-lesson-4-fly-forward-turn-arond-come-back.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker)[>>](11-lesson-6-a-square.md)
-# Lesson 5: Slide to left, slide to right
+[<<](09-lesson-4-fly-forward-turn-arond-come-back.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](11-lesson-6-a-square.md)
+# Lesson 5: Slide to the Left, slide to the Right
 
 ## Watch on YouTube
 

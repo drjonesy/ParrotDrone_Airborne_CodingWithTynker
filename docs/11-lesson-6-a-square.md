@@ -1,5 +1,5 @@
 [<<](10-lesson-5-slide-left-slide-right.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](12-lesson-7-a-square-repeat-block.md)
-# Lesson 6: A Square
+# Lesson 6: Flying in a Square
 
 ## Watch on YouTube
 

@@ -1,5 +1,5 @@
 [<<](07-lesson-2-block-help.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](09-lesson-4-fly-forward-turn-arond-come-back.md)
-# Lesson 3: Flying Forward
+# Lesson 3: Flying Forward and Land
 
 ## Watch on YouTube
 
