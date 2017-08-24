@@ -1,6 +1,12 @@
 [<<](13-lesson-8-fly-in-a-circle.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) 
 # Lesson 9: Variables
 
+## Watch on YouTube
+
+[![Play Video](images/12-vid-github-img.png)](https://www.youtube.com/watch?v=N9hTL7zcH5I&index=14&list=PLyCwPGjh8kDzoPi_4_G_BlavE3nlbkBCd)
+
+## or Read...
+
 ### What is a variable? 
 > A variable is a block that contains a value. For now, we are just going to be using variables to hold numbers.
 

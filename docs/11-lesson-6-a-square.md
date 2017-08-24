@@ -1,6 +1,12 @@
 [<<](10-lesson-5-slide-left-slide-right.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](12-lesson-7-a-square-repeat-block.md)
 # Lesson 6: A Square
 
+## Watch on YouTube
+
+[![Play Video](images/11-vid-github-img.png)](https://www.youtube.com/watch?v=YRNbBKfdoE0&index=11&list=PLyCwPGjh8kDzoPi_4_G_BlavE3nlbkBCd)
+
+## or Read...
+
 > We are going to make the drone fly in a square backwards.Just like all other lessons. We need to take off first. 
 
 We will add two new blocks. **Backward for [ 1 ] seconds** and **stop**

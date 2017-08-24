@@ -1,6 +1,12 @@
 [<<](11-lesson-6-a-square.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](13-lesson-8-fly-in-a-circle.md)
 # Lesson 7: A Square (Repeat Block)
 
+## Watch on YouTube
+
+[![Play Video](images/12-vid-github-img.png)](https://www.youtube.com/watch?v=Z26vOPRlkmk&list=PLyCwPGjh8kDzoPi_4_G_BlavE3nlbkBCd&index=12)
+
+## or Read...
+
 > Did lesson 6 feel like we added to many blocks. Did if feel as if there should have been an easier and better way to add copies. Well, there is a better way. It is the **repeat** block.
  
 The **repeat** block lets us repeat selected blocks over and over as many times as we want.

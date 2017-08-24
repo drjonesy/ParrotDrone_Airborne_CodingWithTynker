@@ -2,6 +2,12 @@
 
 # Lesson 2: Block Help
 
+## Watch on YouTube
+
+[![Play Video](images/07-vid-github-img.png)](https://www.youtube.com/watch?v=Izth6R2bwuM&list=PLyCwPGjh8kDzoPi_4_G_BlavE3nlbkBCd&index=7)
+
+## or Read...
+
 > In the future, you when you are building your own block programs you will want to know what a block does. To find this out find the little Monster in the top right of the screen. He is to the left of the plus button.
 
 ![](images/07-L2-monster-help-1.png)
