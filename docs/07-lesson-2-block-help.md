@@ -1,4 +1,4 @@
-[<<](06-lesson-1-testing-the-drone.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker)[>>](08-lesson-3-flying-forward.md)
+[<<](06-lesson-1-testing-the-drone.md)  [HOME](https://github.com/drjonesy/ParrotDrone_Airborne_CodingWithTynker) [>>](08-lesson-3-flying-forward.md)
 
 # Lesson 2: Block Help
 
