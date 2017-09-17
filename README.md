@@ -2,7 +2,7 @@
 
 This is a beginner course for learning how to program the Parrot Airborne Drone with the Tynker App Blocks.
 
-![](theBasicsTynkerCodeDroneCover.png)
+![](Parrot-Drone-Book-Front-Cover.png)
 
 ### Table of Contents (version 1)
 
@@ -39,5 +39,4 @@ This is a beginner course for learning how to program the Parrot Airborne Drone 
 
 
 ### Coming Soon
-- Video tutorials for each lesson
 - Print Edition (book)
