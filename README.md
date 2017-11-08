@@ -2,7 +2,7 @@
 
 This is a beginner course for learning how to program the Parrot Airborne Drone with the Tynker App Blocks.
 
-![](both-covers-front-and-back.png)
+![](book-covers-front-and-back.png)
 ### Book Options
 - [Print Edition available on Amazon.com](https://www.amazon.com/Drone-Using-Blocks-step-step/dp/1973109425/ref=sr_1_1?ie=UTF8&qid=1510168157&sr=8-1&keywords=code+a+drone+using+blocks)
 - [PDF / Digital Edition] 
